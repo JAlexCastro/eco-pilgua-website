@@ -16,11 +16,11 @@ Este proyecto ha sido desarrollado como parte de la evaluación para la asignatu
 * **Objetivo:** Desarrollo e implementación de un sitio web funcional y responsivo para una Pyme real.
 
 ### 👥 Integrantes del Equipo
-1.  [Nombre del Integrante 1]
-2.  [Nombre del Integrante 2]
-3.  [Nombre del Integrante 3]
-4.  [Nombre del Integrante 4]
-5.  [Nombre del Integrante 5]
+1.  ALISON CURILEN
+2.  RICARDO ALLENDES
+3.  JOSE ALEJANDRO CONTRERAS
+4.  ANTONIO AVILÉS
+5.  JUAN ARAVENA
 
 ---
 
